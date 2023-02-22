@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
  * main - print _putchar
- * is written by me
+ * is written by salanok
  * Return: 0
  */
 
